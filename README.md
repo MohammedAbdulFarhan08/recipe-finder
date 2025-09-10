@@ -3,6 +3,10 @@
 A clean and responsive web app to discover recipes by ingredients.
 Built with React + Vite, styled using Tailwind CSS, and powered by the TheMealDB API.
 
+## 🔗 Live Demo
+
+🌐 App: https://codesandbox.io/p/github/MohammedAbdulFarhan08/recipe-finder/main
+
 ## ✨ Features
 
 Search recipes by ingredient (e.g., chicken, egg, tomato).
