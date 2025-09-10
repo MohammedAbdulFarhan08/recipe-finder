@@ -1,12 +1,43 @@
-# React + Vite
+# 🍴 Recipe Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive web app to discover recipes by ingredients.
+Built with React + Vite, styled using Tailwind CSS, and powered by the TheMealDB API.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search recipes by ingredient (e.g., chicken, egg, tomato).
+Responsive card grid layout with images.
+Detailed recipe view (category, origin, instructions, video).
+Mobile-friendly and error-handled.
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
+### 🔍 Hero Section + Search
+![Hero Section](./screenshots/hero.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🥗 Recipe Grid
+![Recipe Grid](./screenshots/recipes.png)
+
+### 📖 Recipe Modal
+![Recipe Modal](./screenshots/recipes1.png)
+
+
+## 🛠️ Tech Stack
+
+React + Vite (frontend)
+Tailwind CSS (styling)
+TheMealDB API (data)
+
+## 🚀 Quick Start
+
+git clone https://github.com/MohammedAbdulFarhan08/recipe-finder.git
+cd recipe-finder
+npm install
+npm run dev
+
+## 📦 Deployment
+
+Easily deployed on CodeSandbox, StackBlitz.
+
+## 👨‍💻 Author
+
+Developed by Mohammed Abdul Farhan as part of a UI Take-Home Challenge.
